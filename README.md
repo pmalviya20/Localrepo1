@@ -1,2 +1,2 @@
 This is my local repo
-This is a new feature(buttom)
+This is a new feature (button)
